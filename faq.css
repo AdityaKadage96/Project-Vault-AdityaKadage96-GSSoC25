@@ -213,10 +213,7 @@ h1 {
 /* footer-css */
 
 .site-footer {
-    /* background-color: #222; */
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* from main */
-    /* color: #ddd; */
-     /* color: #3656d4; */
     padding: 40px 20px 20px;
     font-family: 'Nunito Sans', sans-serif;
 }
