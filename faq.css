@@ -213,8 +213,10 @@ h1 {
 /* footer-css */
 
 .site-footer {
-    background-color: #222;
-    color: #ddd;
+    /* background-color: #222; */
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* from main */
+    /* color: #ddd; */
+     /* color: #3656d4; */
     padding: 40px 20px 20px;
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -225,6 +227,7 @@ h1 {
     justify-content: space-between;
     gap: 30px;
     max-width: 1200px;
+     
     margin: auto;
 }
 
@@ -237,11 +240,13 @@ h1 {
 .footer-container a {
     font-size: 14px;
     color: #bbb;
+   
     text-decoration: none;
 }
 
 .footer-container a:hover {
     color: #fff;
+     /* color: #3656d4; */
 }
 
 .footer-links ul {
